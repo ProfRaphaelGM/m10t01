@@ -26,13 +26,13 @@ Essa nota sofrerá decréscimos de acordo com a seguinte lista:
 | Item | Ocorrência  | Efeito na nota |
 |--|-------------|------------------|
 |(a)| Falta em 1 evento da Sprint (_Onboarding, Workshop, Planning, Reviews-Retros_) | -2 pontos |
-|(b)| Falta em 2 _dailies_ da Sprint | -1 ponto |
+|(b)| Falta em 1 _daily_ da Sprint | -0.5 ponto |
 
 Estes decréscimos na nota são acumulativos. 
 
 **Exemplo:**
 
-Suponha que o aluno faltou a 2 eventos (por exemplo, na _Planning_ e na _Review-Retro_) e a 5 _dailies_. 
+Suponha que o aluno faltou a 2 eventos (por exemplo, na _Planning_ e na _Review-Retro_) e a 4 _dailies_. 
 
 Assim ele terá um decréscimo de 4 pontos pelo item (a) da tabela e um decréscimo de 2 pontos pelo item (b), e sua nota de participação P será:
 
